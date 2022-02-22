@@ -1,0 +1,783 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The assise of bread newly corrected and enlarged, according to the raising &amp; falling of the price of wheate in the market, togither with sundrie good and needful orders commanded to be kept in making of all kindes of bread, that are appointed to be sold in all places whatsoeuer: whereunto are added, sundrie other good ordinances for bakers, brewers, inholders, uintners, butchers, and victualers. And also other assises in weightes and measure, to bee obserued and kept. Agreeing with the auncient statutes of this realme, tending greatly to the generall comon wealth of the same. Seene allowed, and commaunded to bee kept, by the right honourable the lords, and others of the Queenes Maiesties priuie counsaile. ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1592</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22294</idno>
+            <idno type="STC">STC 870</idno>
+            <idno type="STC">ESTC S108216</idno>
+            <idno type="EEBO-CITATION">99843888</idno>
+            <idno type="PROQUEST">99843888</idno>
+            <idno type="VID">8650</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22294)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 8650)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 168:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The assise of bread newly corrected and enlarged, according to the raising &amp; falling of the price of wheate in the market, togither with sundrie good and needful orders commanded to be kept in making of all kindes of bread, that are appointed to be sold in all places whatsoeuer: whereunto are added, sundrie other good ordinances for bakers, brewers, inholders, uintners, butchers, and victualers. And also other assises in weightes and measure, to bee obserued and kept. Agreeing with the auncient statutes of this realme, tending greatly to the generall comon wealth of the same. Seene allowed, and commaunded to bee kept, by the right honourable the lords, and others of the Queenes Maiesties priuie counsaile. ...</title>
+                  <author>Powel, John, gent.</author>
+               </titleStmt>
+               <extent>[28] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Windet, dwelling at Powles Wharfe at the signe of the Crosse Keys,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1592.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Preface signed: Ioh. Powell.</note>
+                  <note>Running title reads: The booke of assise.</note>
+                  <note>Signatures: A-C⁴ D² .</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bread --  England --  Early works to 1800.</term>
+               <term>Weights and measures --  England --  Early works to 1800.</term>
+               <term>Bakers and bakeries --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:8650:1" rendition="simple:additions"/>
+            <pb facs="tcp:8650:1" rendition="simple:additions"/>
+            <p>THE ASSISE OF BREAD, Newly corrected and enlarged, ac<g ref="char:EOLhyphen"/>cording to the raiſing &amp; falling of the price of wheate in the market, togither with ſundrie good and needful orders commanded to be kept in making of all kindes of bread, that are appointed to be ſold in all places what<g ref="char:EOLhyphen"/>ſoeuer:</p>
+            <p>
+               <hi>Whereunto are added, ſundrie other good ordinances for Ba<g ref="char:EOLhyphen"/>kers, Brewers, Inholders, Vintners, Butchers, and Victulers. And alſo other Aſſiſes in weightes and meaſure, to bee obſerued and kept.</hi>
+            </p>
+            <p>
+               <hi>Agreeing with the auncient Statutes of this Realme, tending greatly to the generall common wealth of the ſame.</hi>
+            </p>
+            <p>Seene allowed, and commaunded to bee kept, by the right Honourable the Lords, and others of the Queenes Maieſties priuie Counſaile.</p>
+            <list>
+               <item>
+                  <hi>Ioh. Cant.</hi>
+               </item>
+               <item>
+                  <hi>Ch. Hatton.</hi>
+               </item>
+               <item>
+                  <hi>W. Burley.</hi>
+               </item>
+               <item>
+                  <hi>H. Derby.</hi>
+               </item>
+               <item>
+                  <hi>Cha. Haward.</hi>
+               </item>
+               <item>
+                  <hi>H. Hunſdon.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Buchurſt.</hi>
+               </item>
+               <item>
+                  <hi>S. Frances Knowles.</hi>
+               </item>
+               <item>
+                  <hi>S. Tho. Heneage.</hi>
+               </item>
+               <item>
+                  <hi>I. Woolley. Eſ.</hi>
+               </item>
+               <item>
+                  <hi>I. Fortheſcue. Eſ.</hi>
+               </item>
+            </list>
+            <p>LONDON Printed by Iohn Windet, dwelling at Powles Wharfe, at the ſigne of the Croſſe Keyes. 1592<g ref="char:punc">▪</g>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:8650:2"/>
+            <pb facs="tcp:8650:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He meanes haue been ve<g ref="char:EOLhyphen"/>rie manifolde in all ages (moſte louing Reader) which Aucthorie by rea<g ref="char:EOLhyphen"/>ſon hath eſtabliſhed in the variable, yet orderlie go<g ref="char:EOLhyphen"/>uernments of States and people for the holdinge them in that moſt louyng and memberlike duetie which one part oweth vnto others, &amp; euerie of them to the conſeruation of the whole bodie in beſt eſtate. Among which, this hath had his ſpecial place: that in the common and ſtill continuing, commerce and in<g ref="char:EOLhyphen"/>terchangeable traffique, paſſing between man &amp; man, Countrie and Countrie, each hath beene limited to others reaſonable liking, by a due obſeruation of ſuch aſſiſe in the matter of true weight and meaſure, as by generall conſent hath been commended to perticuler practiſe. Now albeit, that reaſon it ſelfe may in this be<g ref="char:EOLhyphen"/>halfe, ſeem a ſufficient ſchoole miſtreſſe to euerie man not degenerate. Yet when for the needfull vſe of this equitie, the Aucthor both of reaſon and holie religi<g ref="char:EOLhyphen"/>on, ſhall commend and commaund it to be carefullie kept of all ſuch as profeſſe themſelues to be his people (and that vnder the penaltie of moſt fearefull execra<g ref="char:EOLhyphen"/>tions,
+<pb facs="tcp:8650:3"/>
+to the violaters of the ſame) how ought euerie Chriſtian to bee carried with a conſcience of duetie herein: vpon which no doubt, the moſt lawfull and wholſome conſtitutions of this my natiue country of England were firſt founded, &amp; ſtil do ſtand built. And therfore preſenteth vnto euerie true natural and loyal ſubiect of the ſame (euen as he oweth obedie<g ref="char:cmbAbbrStroke">̄</g>ce to his moſt dread ſouereigne, not ſo much for feare as con<g ref="char:EOLhyphen"/>ſcience ſake) a plaine path truly tending to this kinde of iuſtice, which many alwaies ſeeking to themſelues, doth ſildome practiſe towards others, for the auoy<g ref="char:EOLhyphen"/>ding of whoſe common, though oftentimes moſt vn<g ref="char:EOLhyphen"/>true excuſe herein (in alledging their ignorance of the lawes, to be the lack of their lawful obedience) I haue drawne togither ſuch Acts, Statutes, and ordinances, as hauing been ordeined and vſed in ſundry Kinges Reignes, and now allowed by the Honourable in au<g ref="char:EOLhyphen"/>thoritie: moſt apt and proper for the warranting of all lawfull Aſſiſe both in weight and meaſure, which are to be vſed at this day, and within this Realme: eſpeci<g ref="char:EOLhyphen"/>ally ſuch as concerne the Bakers, Brewers, and Inhol<g ref="char:EOLhyphen"/>ders directions. The not obſeruing whereof vpon ſo manifeſt &amp; plain a publiſhing, what ſhal it els but note vnto vs the men of worſt marke, whether we reſpect their conſcience towards God, or their verteous con<g ref="char:EOLhyphen"/>uerſation in a Chriſtian common wealth. And if all lawes eſtabliſhed by lawfull authoritie (not repug<g ref="char:EOLhyphen"/>ning the lawes of God) are to be imbraced by Chri<g ref="char:EOLhyphen"/>ſtian ſubiects in a conſcionable obedience: by what excuſe then do they thinke to winde out from the de<g ref="char:EOLhyphen"/>ſert of ſuch diſobedience as directly contrarieth both Gods and mans lawes at once: of which nature theſe
+<pb facs="tcp:8650:3"/>
+are, that command the true obſeruation of weight and meaſure betweene man and man. In the booke of Le<g ref="char:EOLhyphen"/>uiticus thus we read. <hi>You ſhall not doo vniuſtly,</hi>
+               <note place="margin">Leuit. 19. v. 3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>in iudge<g ref="char:EOLhyphen"/>ment, in line, weight or meaſure, you ſhall haue iuſt Ballances &amp; true Weights.</hi> In the book of Deu. thus. <hi>Thou ſhalt not haue in thy bag two maner of weights a great and a ſmall,</hi>
+               <note place="margin">Deut. 25. v. 18.</note> 
+               <hi>nei<g ref="char:EOLhyphen"/>ther ſhalt thou haue in thy houſe diuers meaſures a great and a ſmall but thou ſhalt haue a right and a iuſt weight, a perfect and a iust meaſure ſhalt thou haue.</hi> Again in the Prouerbs, <hi>Falſe Ballaunces are an abhomination vnto the Lord,</hi>
+               <note place="margin">
+                  <hi>Pro.</hi> 11. <hi>v.</hi> 1.</note> 
+               <hi>but a p rfect weight pleaſeth him.</hi> Alſo in the firſt Epiſtle to the Theſſalonians, thus it is written:<note place="margin">1. Theſ. 4. v. 6.</note> 
+               <hi>Let no man defraud his brother in any thing</hi> (as euerie one doeth that vſeth falſe weight or meaſure,) <hi>for the Lord is a reuenger of ſuch things.</hi> By all which places &amp; many others that might be cited out of ſacred ſcriptures, it appeareth how ſpe<g ref="char:EOLhyphen"/>cially this vprightnes in the vſe of weight and meaſure hath euer bin enioyned by God himſelfe, for a conti<g ref="char:EOLhyphen"/>nuall practiſe among his people. And therefore moſt ſhameleſſe are they before men, and no leſſe deſperate in diſpiſing the reuenging hand of God: who (beſides the penalties prouided by ciuil authoritie for the hol<g ref="char:EOLhyphen"/>ding them in awe) dare goe on in ſo manifeſt con<g ref="char:EOLhyphen"/>tempt of his ſo fearfull threats. Leauing therfore theſe diſpiſers, to the diſpoſing hand of the Almighty, either in mercy to amend them, or in iuſtice to condemne them. I commend this litle Pamphlet (ſhrowded vnder Gods and my Countries lawes, to the rea<g ref="char:EOLhyphen"/>ding, and regarding of the common) yet more con<g ref="char:EOLhyphen"/>ſcionable ſort of ſubiects in the ſame. As vnto whoſe vſuall trades (ſtanding for the moſt part vpon weight and meaſure,) the practiſe therof moſt properly apper<g ref="char:EOLhyphen"/>teineth,
+<pb facs="tcp:8650:4"/>
+and for whoſe ſakes I haue ſatisfied my well meaning, in deliuering them the truth rather homely then handſomely. Like as their following the ſame, ought to be in a plaine true dealing, and not in a craftie ſubtill deceiuing, which being the fruit that I hope will enſue my poore paines taking herein (as a well pleaſing taſte both to God and man) I will onlie content my ſelfe with expectation of ſuch rewarde, committing thee (good Reader) to the conduct of that ſpirite that is only able and alwaies readie to pre<g ref="char:EOLhyphen"/>pare thee for euerie good duetie, and to performe the ſame in thee, according to thy proper place and cal<g ref="char:EOLhyphen"/>ling.</p>
+            <closer>
+               <signed>Ioh. Powell.</signed>
+            </closer>
+            <pb facs="tcp:8650:4"/>
+         </div>
+      </front>
+      <body>
+         <div type="table">
+            <pb facs="tcp:8650:5"/>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">The Quarter of Wheate.</cell>
+                     <cell role="label">The Buſhell of Wheate.</cell>
+                     <cell role="label">The Farthing white Lofe.</cell>
+                     <cell role="label">The halfe pen<g ref="char:EOLhyphen"/>ny white Lofe.</cell>
+                  </row>
+                  <row>
+                     <cell>xij. s<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>xviij. <abbr>d</abbr>.</cell>
+                     <cell>viij. ℥.</cell>
+                     <cell>xvj. ℥.</cell>
+                  </row>
+                  <row>
+                     <cell>xiij. s<g ref="char:cmbAbbrStroke">̄</g>. vj. <abbr>d</abbr>.</cell>
+                     <cell>xx. <abbr>d</abbr>. <abbr>q</abbr>.</cell>
+                     <cell>vij. ℥. q.</cell>
+                     <cell>xiiij. ℥. di.</cell>
+                  </row>
+                  <row>
+                     <cell>xv. s<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>xxij. <abbr>d</abbr>. ob.</cell>
+                     <cell>vi. ℥. di. ij. <abbr>d</abbr>. ob. <abbr>q</abbr>.</cell>
+                     <cell>xiij. ℥. q. ob.</cell>
+                  </row>
+                  <row>
+                     <cell>xvj. s<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>ij. s<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>vi. ℥. q. i. <abbr>d</abbr>.</cell>
+                     <cell>xij. ℥. di. ij. <abbr>d</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>xvij. s<g ref="char:cmbAbbrStroke">̄</g>. vj. <abbr>d</abbr>.</cell>
+                     <cell>ij. s<g ref="char:cmbAbbrStroke">̄</g>. ij. <abbr>d</abbr>. <abbr>q</abbr>.</cell>
+                     <cell>v. ℥. iij. q. ij. <abbr>d</abbr>. <abbr>q</abbr>.</cell>
+                     <cell>xj. ℥. di. iiij. <abbr>d</abbr>. ob.</cell>
+                  </row>
+                  <row>
+                     <cell>xi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. s<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>ij. s<g ref="char:cmbAbbrStroke">̄</g>. iiij. <abbr>d</abbr>. ob.</cell>
+                     <cell>v. ℥. di.</cell>
+                     <cell>xj. ℥.</cell>
+                  </row>
+                  <row>
+                     <cell>xx. s<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>ij. s<g ref="char:cmbAbbrStroke">̄</g>. vi. <abbr>d</abbr>.</cell>
+                     <cell>v. ℥. q. ob. <abbr>q</abbr>.</cell>
+                     <cell>x. ℥. di. j. <abbr>d</abbr>. ob.</cell>
+                  </row>
+                  <row>
+                     <cell>xx. i. s<g ref="char:cmbAbbrStroke">̄</g>. vi.</cell>
+                     <cell>ij. s<g ref="char:cmbAbbrStroke">̄</g>. viij. <abbr>d</abbr>. <abbr>q</abbr>.</cell>
+                     <cell>v. ℥.</cell>
+                     <cell>x. ℥.</cell>
+                  </row>
+                  <row>
+                     <cell>xxiij. s<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>ij. s<g ref="char:cmbAbbrStroke">̄</g>. x. <abbr>d</abbr>. ob.</cell>
+                     <cell>iiij. ℥. iij. q.</cell>
+                     <cell>ix. ℥. di.</cell>
+                  </row>
+                  <row>
+                     <cell>xxiiij. s<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>iij. s<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>iiij. ℥. di. ij. <abbr>d</abbr>.</cell>
+                     <cell>ix, ℥. iiij. <abbr>d</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>xxv. s<g ref="char:cmbAbbrStroke">̄</g> vi. <abbr>d</abbr>.</cell>
+                     <cell>iij. s<g ref="char:cmbAbbrStroke">̄</g>. ij. <abbr>d</abbr>. <abbr>q</abbr>.</cell>
+                     <cell>iiij. ℥. q. iij. <abbr>d</abbr>.</cell>
+                     <cell>viij. ℥. iij. q. j. <abbr>d</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>xxvij. s<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>iij. s<g ref="char:cmbAbbrStroke">̄</g>. iiij. <abbr>d</abbr>. ob.</cell>
+                     <cell>iiij. ℥. iiij. <abbr>d</abbr>. ob.</cell>
+                     <cell>viij. ℥. q. iiij. <abbr>d</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>xxviij. s<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>iij. s<g ref="char:cmbAbbrStroke">̄</g>. vi. <abbr>d</abbr>.</cell>
+                     <cell>iiij. ℥. ij. <abbr>d</abbr>. <abbr>q</abbr>.</cell>
+                     <cell>viij. ℥. iiij. <abbr>d</abbr>. ob.</cell>
+                  </row>
+                  <row>
+                     <cell>xxix. s<g ref="char:cmbAbbrStroke">̄</g>. vi. <abbr>d</abbr>.</cell>
+                     <cell>iij. s<g ref="char:cmbAbbrStroke">̄</g>. viij. <abbr>d</abbr>. <abbr>q</abbr>.</cell>
+                     <cell>iij. ℥. iij. q. iij. <abbr>d</abbr>. <abbr>q</abbr>.</cell>
+                     <cell>vij. ℥. iij. q. j. <abbr>d</abbr>. ob.</cell>
+                  </row>
+                  <row>
+                     <cell>xxxi. s<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>iij. s<g ref="char:cmbAbbrStroke">̄</g>. x. <abbr>d</abbr>. ob.</cell>
+                     <cell>iij. ℥. iij. q. j. <abbr>d</abbr>. ob. <abbr>q</abbr>.</cell>
+                     <cell>vij. ℥. di. iij. <abbr>d</abbr>. ob.</cell>
+                  </row>
+                  <row>
+                     <cell>xxxij. s<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>iiij. s<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>iij. ℥. iij. q.</cell>
+                     <cell>vij. ℥. di.</cell>
+                  </row>
+                  <row>
+                     <cell>xxxiij. s<g ref="char:cmbAbbrStroke">̄</g>. vi. <abbr>d</abbr>.</cell>
+                     <cell>iiij. s<g ref="char:cmbAbbrStroke">̄</g>. ij. <abbr>d</abbr>. <abbr>q</abbr>.</cell>
+                     <cell>iij. ℥. di. ij. <abbr>d</abbr>. ob. <abbr>q</abbr>.</cell>
+                     <cell>vij. ℥. q. ob.</cell>
+                  </row>
+                  <row>
+                     <cell>xxxv. s<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>iiij. s<g ref="char:cmbAbbrStroke">̄</g>. iiij. <abbr>d</abbr>. ob.</cell>
+                     <cell>iij. ℥. di. ob.</cell>
+                     <cell>vij. ℥. j. <abbr>d</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>xxxvi. s<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>iiij. s<g ref="char:cmbAbbrStroke">̄</g>. vi. <abbr>d</abbr>.</cell>
+                     <cell>iij. ℥. q. iii. <abbr>d</abbr>. <abbr>q</abbr>.</cell>
+                     <cell>vj. ℥. iij. q. j. <abbr>d</abbr>. ob.</cell>
+                  </row>
+                  <row>
+                     <cell>xxxvij. s<g ref="char:cmbAbbrStroke">̄</g>. vi. <abbr>d</abbr>.</cell>
+                     <cell>iiij. s<g ref="char:cmbAbbrStroke">̄</g>. viij. <abbr>d</abbr>. <abbr>q</abbr>
+                     </cell>
+                     <cell>iij. ℥. q. ij. <abbr>d</abbr>. <abbr>q</abbr>.</cell>
+                     <cell>vj. ℥. iij. q.</cell>
+                  </row>
+                  <row>
+                     <cell>xxxi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. s<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>iiij. s<g ref="char:cmbAbbrStroke">̄</g>. x. <abbr>d</abbr>. ob.</cell>
+                     <cell>iij. ℥. q. j. <abbr>d</abbr>.</cell>
+                     <cell>vj. ℥. di. ij. <abbr>d</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>xl. s<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>v. s<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>.ij. ℥. q.</cell>
+                     <cell>vj. ℥. di.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb facs="tcp:8650:5"/>
+               <table>
+                  <row>
+                     <cell role="label">The peny white Lofe.</cell>
+                     <cell role="label">The halfe peny wheaton Lofe.</cell>
+                     <cell role="label">The peny whea<g ref="char:EOLhyphen"/>ton Lofe.</cell>
+                     <cell role="label">The ob. houſe<g ref="char:EOLhyphen"/>hold or horſlofe.</cell>
+                  </row>
+                  <row>
+                     <cell>xxxij. ℥.</cell>
+                     <cell>xxiiij. ℥.</cell>
+                     <cell>xlviij. ℥.</cell>
+                     <cell>xxxij. ℥.</cell>
+                  </row>
+                  <row>
+                     <cell>xxix. ℥.</cell>
+                     <cell>xxj. ℥. iij. q.</cell>
+                     <cell>xliij. ℥. di.</cell>
+                     <cell>xxix. ℥.</cell>
+                  </row>
+                  <row>
+                     <cell>xxvj. ℥. di. j. <abbr>d</abbr>.</cell>
+                     <cell>xix. ℥. iij. q. ij. <abbr>d</abbr>. <abbr>q</abbr>.</cell>
+                     <cell>xxxix. ℥. di. iiij. <abbr>d</abbr>. ob.</cell>
+                     <cell>xxvj. ℥. di. j. <abbr>d</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>xxv. ℥. iiij. <abbr>d</abbr>.</cell>
+                     <cell>xviij. ℥. iij. q. iij. <abbr>d</abbr>.</cell>
+                     <cell>xxxvij. ℥. iij. q. j. <abbr>d</abbr>.</cell>
+                     <cell>xxv. ℥. iiij. <abbr>d</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>xxiij. ℥. q. iiij. <abbr>d</abbr>.</cell>
+                     <cell>xvij. ℥. di. j. <abbr>d</abbr>. ob. <abbr>q</abbr>.</cell>
+                     <cell>xxxv. ℥. iij. <abbr>d</abbr>. ob.</cell>
+                     <cell>xxiij. ℥. q. iiij. <abbr>d</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>xxij. ℥.</cell>
+                     <cell>xvj. ℥. di.</cell>
+                     <cell>xxxiij. ℥.</cell>
+                     <cell>xxij. ℥.</cell>
+                  </row>
+                  <row>
+                     <cell>xxj. ℥. iij. <abbr>d</abbr>.</cell>
+                     <cell>xv. ℥. iij. q. ij. <abbr>q</abbr>.</cell>
+                     <cell>xxxj. ℥. di. iiij. <abbr>d</abbr>. ob.</cell>
+                     <cell>xxj. ℥. iij. <abbr>d</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>xx. ℥.</cell>
+                     <cell>xv. ℥.</cell>
+                     <cell>xxx. ℥.</cell>
+                     <cell>xx. ℥.</cell>
+                  </row>
+                  <row>
+                     <cell>xix. ℥.</cell>
+                     <cell>xiiij. ℥. q.</cell>
+                     <cell>xxviij. ℥. di.</cell>
+                     <cell>xix. ℥.</cell>
+                  </row>
+                  <row>
+                     <cell>xviij. ℥. q. iij. <abbr>d</abbr>.</cell>
+                     <cell>xiij. ℥. iij. q. j. <abbr>d</abbr>.</cell>
+                     <cell>xxvij. ℥. di. ij. <abbr>d</abbr>.</cell>
+                     <cell>xviij. ℥. q. iij. <abbr>d</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>xvij. ℥. di. ij. <abbr>d</abbr>.</cell>
+                     <cell>xiij. ℥. iiij. <abbr>d</abbr>.</cell>
+                     <cell>xxvj. ℥. q. iij. <abbr>d</abbr>.</cell>
+                     <cell>xvij. ℥. di. ij. <abbr>d</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>xvj. ℥. iij. q. iij. <abbr>d</abbr>.</cell>
+                     <cell>xij. ℥. di. j. <abbr>d</abbr>.</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>xv. ℥. ij. <abbr>d</abbr>.</cell>
+                     <cell>xvj. ℥. iij. q. iij. <abbr>d</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>xvj. ℥. q. iiij. <abbr>d</abbr>.</cell>
+                     <cell>xij. ℥. q. j. <abbr>d</abbr>. ob.</cell>
+                     <cell>xxiiij. ℥. di. iij. <abbr>d</abbr>.</cell>
+                     <cell>xvj. ℥. q. iiij. <abbr>d</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>xv. ℥. di. iij. <abbr>d</abbr>.</cell>
+                     <cell>xj. ℥. di. iiij. <abbr>d</abbr>. ob. <abbr>q</abbr>.</cell>
+                     <cell>xxiij. ℥. q. iiij. <abbr>d</abbr>. ob.</cell>
+                     <cell>xv. ℥. di. iij. <abbr>d</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>xv. ℥. q. ij. <abbr>d</abbr>.</cell>
+                     <cell>xj. ℥. di. <abbr>q</abbr>.</cell>
+                     <cell>xxiij. ℥. ob.</cell>
+                     <cell>xv. ℥. q. ij. <abbr>d</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>xv. ℥.</cell>
+                     <cell>xj. ℥. q.</cell>
+                     <cell>xxij. ℥. di.</cell>
+                     <cell>xv. ℥.</cell>
+                  </row>
+                  <row>
+                     <cell>xiiij. ℥. di. j. <abbr>d</abbr>.</cell>
+                     <cell>x. ℥. iij. q. iij. <abbr>d</abbr>. <abbr>q</abbr>.</cell>
+                     <cell>xxj. ℥. iij. q. j. <abbr>d</abbr>. ob</cell>
+                     <cell>xiiij. ℥. di. j. <abbr>d</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>xiiij. ℥. ij. <abbr>d</abbr>.</cell>
+                     <cell>x. ℥. di. j. <abbr>d</abbr>. ob.</cell>
+                     <cell>xxj. ℥. iiij. <abbr>d</abbr>.</cell>
+                     <cell>xiiij. ℥. ij. <abbr>d</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>xiij. ℥. di. iij. <abbr>d</abbr>.</cell>
+                     <cell>x. ℥. iiij. <abbr>d</abbr>. <abbr>q</abbr>.</cell>
+                     <cell>xx. ℥. q. iiij. <abbr>d</abbr>. ob.</cell>
+                     <cell>xiij. ℥. di. iij. <abbr>d</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>xiij. ℥. di.</cell>
+                     <cell>x. ℥. ij. <abbr>d</abbr>. ob.</cell>
+                     <cell>xx. ℥. q.</cell>
+                     <cell>xiij. ℥. di.</cell>
+                  </row>
+                  <row>
+                     <cell>xiij. ℥. iiij. <abbr>d</abbr>.</cell>
+                     <cell>x. ℥. ob.</cell>
+                     <cell>xx. ℥. j. <abbr>d</abbr>.</cell>
+                     <cell>xiij. ℥. iiij. <abbr>d</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>xiij. ℥.</cell>
+                     <cell>ix. ℥. iij. q.</cell>
+                     <cell>xix. ℥. di.</cell>
+                     <cell>xiij. ℥.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <pb facs="tcp:8650:6"/>
+                  <row>
+                     <cell role="label">The Quarter of Wheate.</cell>
+                     <cell role="label">The Buſhell of Wheate.</cell>
+                     <cell role="label">The Farthing white Lofe.</cell>
+                     <cell role="label">The halfe pe<g ref="char:EOLhyphen"/>ny white Lofe.</cell>
+                  </row>
+                  <row>
+                     <cell>xlj. s<g ref="char:cmbAbbrStroke">̄</g>. viij. <abbr>d</abbr>.</cell>
+                     <cell>v. s<g ref="char:cmbAbbrStroke">̄</g>. ij. <abbr>d</abbr>. ob.</cell>
+                     <cell>ij. ℥. iij. q. ob. <abbr>q</abbr>. di. <abbr>q</abbr>.</cell>
+                     <cell>v. ℥. di. j. <abbr>d</abbr>. ob. <abbr>q</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>xlij. s<g ref="char:cmbAbbrStroke">̄</g>. x. <abbr>d</abbr>.</cell>
+                     <cell>v. s<g ref="char:cmbAbbrStroke">̄</g>. iiij. <abbr>d</abbr>. <abbr>q</abbr>.</cell>
+                     <cell>ij. ℥. di.</cell>
+                     <cell>v. ℥.</cell>
+                  </row>
+                  <row>
+                     <cell>xiiiij. s<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>v. s<g ref="char:cmbAbbrStroke">̄</g>. vj. <abbr>d</abbr>.</cell>
+                     <cell>ij. ℥. q. iiij. <abbr>d</abbr>. di. <abbr>q</abbr>.</cell>
+                     <cell>iiij. ℥. iij. q. iij. <abbr>d</abbr>. <abbr>q</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>xlv. s<g ref="char:cmbAbbrStroke">̄</g>. viij.</cell>
+                     <cell>v. s<g ref="char:cmbAbbrStroke">̄</g>. viij. <abbr>d</abbr>. ob.</cell>
+                     <cell>ij. ℥. q. ij. <abbr>d</abbr>. ob.</cell>
+                     <cell>iiij. ℥. iij. q.</cell>
+                  </row>
+                  <row>
+                     <cell>xlviij. s<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>vj. s<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>ij. ℥. q. j. <abbr>d</abbr>.</cell>
+                     <cell>iiij. ℥. di. ij. <abbr>d</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>xlix. s<g ref="char:cmbAbbrStroke">̄</g>. viij. <abbr>d</abbr>.</cell>
+                     <cell>vj. s<g ref="char:cmbAbbrStroke">̄</g>. ij. <abbr>d</abbr>. ob.</cell>
+                     <cell>ij. ℥. iiij. <abbr>d</abbr>. ob. di. <abbr>q</abbr>.</cell>
+                     <cell>iiij. ℥. q. iiij. <abbr>d</abbr>. <abbr>q</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>l. s<g ref="char:cmbAbbrStroke">̄</g>. x. <abbr>d</abbr>.</cell>
+                     <cell>vj. s<g ref="char:cmbAbbrStroke">̄</g>. iiij. <abbr>d</abbr>. <abbr>q</abbr>.</cell>
+                     <cell>ij. ℥. iiij. <abbr>d</abbr>.</cell>
+                     <cell>iiij. ℥. q. iij. <abbr>d</abbr>.</cell>
+                  </row>
+                  <row>
+                     <cell>lij. s<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>vj. s<g ref="char:cmbAbbrStroke">̄</g>. vj. <abbr>d</abbr>.</cell>
+                     <cell>ij. ℥. ij. <abbr>d</abbr>. ob. <abbr>q</abbr>.</cell>
+                     <cell>iiij. ℥. q. ob.</cell>
+                  </row>
+                  <row>
+                     <cell>liij. s<g ref="char:cmbAbbrStroke">̄</g>. iiij. <abbr>d</abbr>.</cell>
+                     <cell>vj. s<g ref="char:cmbAbbrStroke">̄</g>. viij. <abbr>d</abbr>.</cell>
+                     <cell>ij. ℥. j. <abbr>d</abbr>. <abbr>q</abbr>.</cell>
+                     <cell>iiij. ℥. ij. <abbr>d</abbr>. ob.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <seg rend="decorInit">I</seg>N this aſſiſe there is no allowaunce giuen vnto the Baker towardes his charges, in the baking of his breade. And the Baker for his offence in breaking of his aſſiſe, he ſhalbe amerced: for the ſecond offence likewiſe amerced: for the thirde offence in breaking his aſſiſe he ſhalbe more greueouſly amerced, and warned. And if hee offend in breaking the aſſice of his bread the fourth time (being thereof conuicted by order of lawe) then hee ſhall receiue corporall puniſhment vpon the pillorie, without any redemption, either by Golde, or Siluer. But if the Baker doth excéede (in breaking th' aſſiſe of his bread) the full weighte of ij. s<g ref="char:cmbAbbrStroke">̄</g>. vi. d. which is one ounce and a halfe in his Farthing white Lofe, then he ſhall ſuffer the iudgement of the pil<g ref="char:EOLhyphen"/>lorie without any fine, or admonition geuen vnto him. <hi>Et poſt Septem dies panis nonponderetur.</hi> Thaſſiſe or weight of bread ſhal not be chaunged, but by the increaſe and decreaſe of vi. d. in the price of a quarter of wheate. And that euery Ba<g ref="char:EOLhyphen"/>ker hath his proper Marke vpon his bread. <hi>Anno.</hi> 51. <hi>H.</hi> 3. <hi>Et Anno.</hi> 31. <hi>Ed. primi.</hi> As it appeareth by 14. <hi>Ed.</hi> 3. <hi>cap.</hi> 12.</p>
+            <p>
+               <pb facs="tcp:8650:6"/>
+               <table>
+                  <row>
+                     <cell role="label">The peny white Lofe.</cell>
+                     <cell role="label">The halfe peny wheaton Lofe.</cell>
+                     <cell role="label">The peny weah<g ref="char:EOLhyphen"/>ton Lofe.</cell>
+                     <cell role="label">The ob. houſe<g ref="char:EOLhyphen"/>hold or horſlofe.</cell>
+                  </row>
+                  <row>
+                     <cell>xj. ℥. iij. <abbr>d</abbr>. ob.</cell>
+                     <cell>viij. ℥. q. ij. <abbr>d</abbr>. ob. di. <abbr>q</abbr>.</cell>
+                     <cell>xvi. ℥. iij. q. <abbr>q</abbr>.</cell>
+                     <cell>xi. ℥. iij. d. ob.</cell>
+                  </row>
+                  <row>
+                     <cell>x. ℥.</cell>
+                     <cell>vij. ℥. di.</cell>
+                     <cell>xv. ℥.</cell>
+                     <cell>x. ℥.</cell>
+                  </row>
+                  <row>
+                     <cell>ix. ℥. jij. q. j. <abbr>d</abbr>. ob.</cell>
+                     <cell>vij. ℥. q. ij. <abbr>d</abbr>. ob. di <abbr>q</abbr>.</cell>
+                     <cell>xiiij. ℥. di. iiij. d. ob. <abbr>q</abbr>
+                     </cell>
+                     <cell>ix. ℥. iij. q. i. d. ob.</cell>
+                  </row>
+                  <row>
+                     <cell>ix. ℥. di.</cell>
+                     <cell>vij. ℥. ij. <abbr>d</abbr>. ob.</cell>
+                     <cell>xiiij. ℥. q.</cell>
+                     <cell>ix. ℥. di.</cell>
+                  </row>
+                  <row>
+                     <cell>ix. ℥. iiij. <abbr>d</abbr>.</cell>
+                     <cell>vi. ℥. iij. q. iij. <abbr>d</abbr>.</cell>
+                     <cell>xiij. ℥. iij. q. i. d.</cell>
+                     <cell>ix. ℥. iiij. d.</cell>
+                  </row>
+                  <row>
+                     <cell>viij. ℥. iij q. iij. <abbr>d</abbr> ob.</cell>
+                     <cell>vi. ℥. di. iij. <abbr>d</abbr>. ob. <abbr>q</abbr>.</cell>
+                     <cell>xiij. ℥. q. ij. d. ob. <abbr>q</abbr>.</cell>
+                     <cell>viij. ℥. iij. q. i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> d. ob</cell>
+                  </row>
+                  <row>
+                     <cell>viij. ℥. iij. q. j. <abbr>d</abbr>.</cell>
+                     <cell>vi. ℥. di. ij. <abbr>d</abbr>.</cell>
+                     <cell>xiij. ℥. iiij. d.</cell>
+                     <cell>viij. ℥. iij. q. i. d.</cell>
+                  </row>
+                  <row>
+                     <cell>viij. ℥. di. i. <abbr>d</abbr>.</cell>
+                     <cell>vi. ℥. q. iij. <abbr>d</abbr>. <abbr>q</abbr>.</cell>
+                     <cell>xij. ℥. iij. q. i. d. ob.</cell>
+                     <cell>viij. ℥. di. i. d.</cell>
+                  </row>
+                  <row>
+                     <cell>viij. ℥. q.</cell>
+                     <cell>vi. ℥. iij. d. ob. <abbr>q</abbr>.</cell>
+                     <cell>xij. ℥. q. ij. d. ob.</cell>
+                     <cell>viij. ℥. q.</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="allowance">
+            <head>Allowance to Bakers.</head>
+            <p>FIrſt it is to be remembred, that the foreſaide Aſſiſe of all ſortes of bread, being many yeares ſince eſtabliſhed by lawe, for the good of this Common wealth. At what time all manner of Fuell and other neceſſaries néedfull for the miſterie of Bakers were farre better cheap, then now they are: as may plainely appeare by the Bakers allowaunces, for their charges in the batche of a quarter of wheate, ſet downe by the olde ſiſe bookes, not amounting aboue the value of tenne pence.</p>
+            <p>It is therfore berie néedfull, that all manner of officers ha<g ref="char:EOLhyphen"/>uing to deale therein, ſhoulde haue due regarde thereunto: In yéelding the ſaide Bakers ſuch reaſonable conſideration and allowaunces, for and towardes their coſts and charges, in baking their breads, as is agreeable vnto equitie and good conſience: and may likewiſe anſwere vnto the highnes of pri<g ref="char:EOLhyphen"/>ces which thinges now beare: whereby they may continue their ſaide miſteries, with a due obſeruation of the true Aſſiſe according to the lawes in that behalfe prouided.</p>
+            <p>
+               <pb facs="tcp:8650:7"/>And further more if their be any manner of Parſon or Par<g ref="char:EOLunhyphen"/>ſons which ſhall by any falſe wayes, or meanes ſell any meale vnto the Queenes ſubiects either by mixing of it deceitefully, or muſtie and corrupted meale, which may be to the hurt or infection of mans body: orels by any falſe ſlight or any deceat<g ref="char:EOLhyphen"/>full waies or meanes, by falſe waight or meaſure, and ſo de<g ref="char:EOLhyphen"/>ceaue the ſubiects: For the firſt offence hee ſhalbe greeuouſly punniſhed, the ſecond offence he ſhall loſe his meale, the third offence he ſhal ſuffer the iudgement of the Pillowrie, and the fowerth time he ſhall foreſweare the Towne wherin he dwelleth.</p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:8650:7"/>
+            <head>Auncient lawes and good ordinances ſet downe aſwell for Bakers, in making, Siſing and ſelling <hi>of all ſortes of lawful breads, which by the lawes are</hi> ven<g ref="char:EOLhyphen"/>dable vnto her Maieſtis ſubiects in the com<g ref="char:EOLhyphen"/>mon <hi>wealth: as alſo for Inholders, <g ref="char:V">Ʋ</g>ittulers,</hi> and other perſons retailing the ſame, ratified and allowed by her maieſties moſt honorable priuy counſell, as heereafter followeth.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Irſte, that no manner of perſon or per<g ref="char:EOLunhyphen"/>ſons ſhal kéepe a common Bakehouſe, in Cities and corporate Townes,<note place="margin">Bakers to be apprentized,</note> but ſuch perſons as haue béene aprentized vnto the ſame miſterie, or brought vp therein for the more ſpace of ſeauen yeares, or elſe otherwiſe, ſkilfull in the good making and true ſiſing of all ſortes of bread, and ſhall put his owne proper marke and ſeale vpon all ſortes of his mans bread, which he or they ſhall make and ſell as before is mentioned.</p>
+            <p>Item, that no Baker or other perſons, doe make, bake,<note place="margin">Lawful breads to be made and ſolde.</note> vtter and ſel, any kindes or ſortes of bread, in the common-wealth: but ſuch which the Statutes and auncient ordinaun<g ref="char:EOLhyphen"/>ces of this Realme do allowe them to bake, and ſell. That is to ſaye, they maye bake, and ſell Simnell bread, waſtell, white, wheaton, houſholde, and Horſebreades, and none other kindes of bread to put to ſale vnto her Maieſties ſubiects.</p>
+            <p>Item, they muſt make and bake farthing white bread,<note place="margin">What ſortes of bread are to be made.</note> halfe peny white, peny white, halfe-peny wheaton, peny whea<g ref="char:EOLhyphen"/>ton bread, peny houſholde, and two peny houſholde loues, and none of greater Siſe, vpon paine of forfeiture vnto poore people all ſuch greate bread which they or any of them ſhall make to ſel of greater Siſe, (the time of Chriſtmas alwaies excepted).</p>
+            <p>Item, they ſhall not vtter and ſell to any Inholder or Vic<g ref="char:EOLhyphen"/>tuler
+<pb facs="tcp:8650:8"/>
+either in mans bread or horſebread (which ſhall retaile the ſame) but onely xiij peny worth for xij. d. without any Poundage or other aduantage.</p>
+            <p>Item, they ſhall ſell and deliuer vnto Inholders and Victu<g ref="char:EOLhyphen"/>lers, in horſe-bread,<note place="margin">xiij pence in bread for xij. pence.</note> but thrée Loues for a peny, and xiij pennye worth for xij. d. (as aforeſaide) euery one of the ſame thrée horſe loues waighing the full weight of a peny white Lofe: whether wheat be good cheape or deare.</p>
+            <p>Item, that no bakers or other perſon or perſons, ſhal at any time or times hereafter, make, vtter or ſel, by retaile, within or without their houſes,<note place="margin">Vnlawfull breads for<g ref="char:EOLhyphen"/>bidden.</note> vnto any the Quéenes ſubiects any ſpice Cakes, Bunnes, Biſkets, or other ſpice breads (beeing bread out of Siſe and not by lawe allowed) excepte it be at Burialls or vpon the Friday before Eaſter, or at Chriſtmas: vpon paine of forfeiture of al ſuch ſpice breades to the poore.</p>
+            <p>Item, whereas there are, in Cities or corporate Townes, common Bakers, vſing the miſtery of baking, there and with<g ref="char:EOLhyphen"/>in the ſame Townes the foreine Bakers, which come into the market with their breades to be ſolde, ſhall not onely bringe with them,<note place="margin">Forren bakers to keep greater ſiſe then the townes men.</note> ſuch kindes of ſortes of Siſed breades, as the lawe and ordinaunces do alowe, to be made and ſolde as aforeſaide: but alſo ſhall kéepe and obſerue this order, in the weight of their breades, as hereafter followeth: becauſe the ſaide forrei<g ref="char:EOLhyphen"/>ners do not beare and pay, within the ſame Cities or Towns, ſuch Scotte and Lotte, as the Bakers of the ſame townes do.</p>
+            <p>Firſt, the Forreiners halfe peny white Loues ſhal wey half an ounce more in euery Lofe, then the Bakers of the ſame townes halfe peny white Loues doe.</p>
+            <p>Item, their peny white Loues ſhall wey, one ounce more in euery Lofe then the Bakers of the ſame townes peny white Loues doe.</p>
+            <p>Item, their halfe peny wheaton Loues, ſhall wey one ounce more in euery Lofe, then the Bakers of the ſame townes halfe peny wheaton Loues doe.</p>
+            <p>Item, their peny wheaton Loues, ſhall wey two ounces more in euery Lofe, then the Bakers of the ſame townes, pe<g ref="char:EOLhyphen"/>ny
+<pb facs="tcp:8650:8"/>
+wheaton Loues doe.</p>
+            <p>Item, their peny houſholde Loues, ſhall wey two ounces more in euery Lofe, then the Bakers of the ſame townes, pe<g ref="char:EOLhyphen"/>ny houſholde Loues doe.</p>
+            <p>Item, their two peny houſholde Loues, ſhall weye foure ounces more in euery Lofe, then the Bakers of the ſame townes, two peny houſhold Loues doe.</p>
+            <p>Prouided alwaies, that the Clerke of the market of her Maieſties houſhold, his deputies or deputie, Maiors, Bailifes and other Officers, of Cities, Corporat towns &amp; liberties, ſhal looke vnto, haue diligent care and reſpecte vnto the due per<g ref="char:EOLhyphen"/>formaunce, and execution of theſe Articles, and ſhall and may from time, to time, fréely giue and diſtribute,<note place="margin">Penaltie.</note> al ſuch vnlawfull breades as ſhalbe hereafter made and put to ſale being contra<g ref="char:EOLhyphen"/>rie to theſe Articles (before mentioned) vnto poore priſoners or any other poore people, willing &amp; requiring al Iuſtices of peace, Conſtables, Baylifes, and all other Officers, to be ayding, aſ<g ref="char:EOLhyphen"/>ſiſting and helping, al the foreſaid Officers in the due executio<g ref="char:cmbAbbrStroke">̄</g> hereof, as they will anſwere to the contrarie at their perils.</p>
+            <p>Note alſo, that this Aſſiſe of all ſortes of bread,<note place="margin">Aſſiſe of bread after Troy weight.</note> ought al<g ref="char:EOLhyphen"/>waies to bee approued by the Troye weight, deriued from the graines of wheate: whereof two graines, taken in the middeſt of the eare, maketh the xvi. parte of a Sterling peny: iiij. graines maketh the eight parte of a peny Sterling: eight graines make the fourth parte of a peny Sterling, and two and thirtie graines of wheate, make the whole Sterling peny. Twentie of which pence, make the ounce Troy, xv. d. thrée quarters of an ounce, x. d. halfe an ounce, fiue pence a quarter of an ounce, &amp; ij. d. ob. halfe a quarter of an ounce, which weight being named Troy weight, ſerueth only to wey, Bread, Gold,<note place="margin">Ounce Troye.</note> Siluer, precious Iewels, and Ellectuaries, of which weighte, there is but xij ounces to the pound, viij poundes to the gal<g ref="char:EOLhyphen"/>lon, xvi poundes to the pecke, xxxij. poundes to the halfe Buſh<g ref="char:EOLhyphen"/>ell, and lxiiij. poundes to the Buſhell. <hi>Anno.</hi> 12. <hi>H.</hi> 7. <hi>cap.</hi> 5.</p>
+            <p>There is alſo an other vſuall weight, named <hi>Auoirdupois</hi> weight, whereunto there is xvi. ounces for the pounde, which
+<pb facs="tcp:8650:9"/>
+weight ſerueth to wey Butter, Chéeſe, Fleſh, Tallow, Waxe, and euery other thing that beareth the name of Garbell, and whereof iſſueth a refuſe or waſte.<note place="margin">Auoirdupois weight.</note> The difference betwéen theſe two weightes, <hi>Troye</hi> and <hi>Auoirdupois,</hi> is this, that xiiii. oun<g ref="char:EOLhyphen"/>ces and a halfe <hi>Troye</hi> weight, being xxiiii. s<g ref="char:cmbAbbrStroke">̄</g>. ij. d. ſterling, doo make xvi. ounces <hi>Auoirdupois</hi> weight, at this day, and accor<g ref="char:EOLhyphen"/>ding to the ſame rate vii. poundes <hi>Auoirdupois,</hi> make the gal<g ref="char:EOLhyphen"/>lon in meaſure:<note place="margin">Difference of weightes.</note> xiiii. pounds the pecke, xxviii. pounds the halfe buſhell, and lvi. pounds make the buſhell, the which buſhel iuſt<g ref="char:EOLhyphen"/>ly accordeth with the lxiiii. poundes <hi>Troye</hi> weight, as is before mentioned. The which lvi. pound of <hi>Auoirdupois</hi> weight, are and haue béen accuſtomably vſed, for the content of the buſhell through this Realme, and not repugnant to the law as before is remembred. From the which weight named <hi>Troye,</hi> is alſo drawen the aſſiſe or gaige, as well for all maner of wette mea<g ref="char:EOLhyphen"/>ſures to be had and vſed,<note place="margin">The meaſure drawen from y<hi rend="sup">e</hi> troy weight.</note> both by land and within ſhippe board, as alſo for all maner of corne and graine vendable within this Realme of England, which according to the law is to be obſer<g ref="char:EOLhyphen"/>ued and kept, as well within liberties as without, both by the buyers and ſellers: that is to ſay, the full and iuſt weight of xii. ounces <hi>Troy</hi> in wheat, do make a concaue or hollow meaſure named a pinte, and viii. of the ſame pintes do make the gallon for Wine, Ale, Béere, and Corne, according to the Standard of her maieſties Exchequier, viii. of which gallons doe make the buſhell,<note place="margin">Water mea<g ref="char:EOLhyphen"/>ſure.</note> and eight of the ſame buſhels doo make the quarter in meaſure. <hi>An.</hi> 11. <hi>&amp;</hi> 12. <hi>H.</hi> 7. <hi>Memorandum,</hi> there is al<g ref="char:EOLhyphen"/>lowed by the law for water meaſure within the ſhip board, ten gallons to the buſhell, which conteine fiue peckes. <hi>An.</hi> 11. <hi>H.</hi> 7. <hi>Cap.</hi> 4.</p>
+            <p>
+               <note place="margin">The content of caske.</note>Furthermore, there is deriued and drawen out, and from the ſaid gallon made by the ſaid eight pintes, which conteineth twelue ounces of <hi>Troy</hi> weight to euerie pinte, as before is de<g ref="char:EOLhyphen"/>clared. The Aſſiſe for the quantitie and true content of all ma<g ref="char:EOLhyphen"/>ner of caſke, lawfull and vend<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble within this Realme of Eng<g ref="char:EOLhyphen"/>land, as well for Wines, Oyle, &amp; Hony, as alſo for Ale, Béere, and Sawce. That is to ſay, euery hogſhead to haue and con<g ref="char:EOLhyphen"/>teine
+<pb facs="tcp:8650:9"/>
+thréeſcore and thrée gallons, euery Tertian fourſcore and foure gallons, euery Pipe Cxxvi. gallons, and euery Tunne, CClii. gallons of the foreſaid Engliſh gallons, and that no ma<g ref="char:EOLhyphen"/>ner of perſon or perſons ſhal bring out of any country, or make or cauſe to be made here within the Realme of England, any of the ſayd veſſels of loſſer ſiſe or content then before is decla<g ref="char:EOLhyphen"/>red, <hi>An.</hi> 2. <hi>H.</hi> 6. <hi>Cap.</hi> 11. <hi>An.</hi> 1. <hi>R.</hi> 3. <hi>Cap.</hi> 13. <hi>&amp; An.</hi> 28. <hi>H.</hi> 8. <hi>Cap.</hi> 14.</p>
+            <p>There is alſo a certaine meaſure called a Salmon Butte,<note place="margin">Salmon mea<g ref="char:EOLhyphen"/>ſure.</note> which muſt hold and conteine foureſcore and foure gallons, the Barrell muſt hold and conteine, xlii. gallons, the halfe Barrell one and twentie gallons. The Hearing Barrell muſt hold and conteine, thirtie two gallons. The Eale barrell fortie two gal<g ref="char:EOLhyphen"/>lons, and the halfe barrell and firkin for Hearings and Eales,<note place="margin">Eales and bea<g ref="char:EOLhyphen"/>ring caske,</note> muſt hold and conteine according to the ſame rate, the which gallons muſt be alſo agréeable vnto her Maieſties Standard of the Exchequier, and deriued as before is mencioned, <hi>Ann.</hi> 22. <hi>Ed.</hi> 4. <hi>Cap.</hi> 11.</p>
+            <p>And euerie Sope barrell to holde and containe 32. Gall<g ref="char:EOLhyphen"/>ons and vpwards according to the Quéenes maiſties ſtandard of Thexchequire, and ſhall way being emptie xxvi. poundes of <hi>Auoirdupois</hi> weight and not aboue, and euerie halfe bar<g ref="char:EOLhyphen"/>rel emptie ſhal way xiii. pounds &amp; not aboue, and ſhal hold and containe xvi. Gallons and aboue, and euery Firkin emptie ſhall waye vi. pound and a halfe and not aboue, and ſhal holde and containe viii. Gallons and aboue, vpon paine of forfaiture for euerie barrell, halfe barrell, Ferking or othed veſſell here<g ref="char:EOLhyphen"/>after to be made had or vſed contrarie to this Act iii s. iiii. d.</p>
+            <p>There is alſo y<hi rend="sup">e</hi> true weight of a wey of chéeſe &amp; butter, after the rate of fiueſcore &amp; twelue poundes of <hi>Auoirdupois</hi> weight to the hundred, as aforeſaide, which two hundreth weight, is a leuen ſcore and foure poundes, conteining xxxii. cloues,<note place="margin">The weight of cheeſe and but<g ref="char:EOLunhyphen"/>ter.</note> and eue<g ref="char:EOLhyphen"/>ry cloue to be vii. pounds of <hi>Auoirdupois</hi> weight. And ſo the weye of Suffolke chéeſe, is two hundreth, quarter and foure poundes, which is twelueſcore and ſixtéene poundes of <hi>Auoir<g ref="char:EOLhyphen"/>dupois</hi> weightes, and the barrell of butter is of like weight,
+<pb facs="tcp:8650:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:8650:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:8650:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:8650:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:8650:12"/>
+with the Foyſt thereof. But the weight of the wey of Eſſexs chéeſe or butter, is thrée hundreth pounds weight, after the rate of fiueſcore &amp; twelue poundes to the hundreth, which is ſixtéene ſcore and ſixtéene poundes of <hi>Auoirdupois</hi> weight, <hi>Anno.</hi> 9. <hi>H.</hi> 6. <hi>Cap.</hi> 8.</p>
+            <p>
+               <note place="margin">The ſacke of wooll.</note>The Sack of Wooll is thrée hundred twenty eight pounds, and a hundred twelue pounds to euery hundred weight, which is xviii. ſcore and foure pounds of <hi>Auoirdupois</hi> weight, as be<g ref="char:EOLhyphen"/>fore is mencioned, <hi>An.</hi> 11. <hi>H.</hi> 7. <hi>Cap.</hi> 4. Two weights of wooll make a ſacke, and xii. ſackes make a laſt. But a laſt of Hea<g ref="char:EOLhyphen"/>rings, conteineth tenne thouſand, and euery thouſand conteine tenne hundreth. And euerie hundreth, conteine ſixſcore, <hi>An.</hi> 14. <hi>Ed.</hi> 3. <hi>Cap.</hi> 12.</p>
+            <p>There is alſo a lode of Lead, which conſiſteth of thirtie for<g ref="char:EOLhyphen"/>mels,<note place="margin">The loade of Leade.</note> and euery formell conteineth ſixe ſtone wanting two pounds. And euery ſtone muſt conſiſt of twelue pound <hi>Auoir<g ref="char:EOLhyphen"/>dupois:</hi> and euery pound conſiſteth of the weight of fiue and twentie ſhillings ſterling, whereby the ſumme in the formell is ſeuen pound, but the ſumme of the ſtones in the load, is eight times twentie and fiftéene. And it is proued by ſix times thirty, which is, nine times twentie. But of euery formell there are abated two poundes in the foreſaid multiplication, which are ſixtie, which make fiue ſtone. And ſo there are in the load eight times twentie and fiftéene pounds as is aboue ſayd. According to ſome other, it conſiſteth of twelue weightes: and this is af<g ref="char:EOLhyphen"/>ter <hi>Troy</hi> weight. And the ſumme of ſtones in the load, is eight times twentie, and eight ſtone. And it is proued by twelue times 14. <hi>An.</hi> 14. <hi>Ed.</hi> 3. <hi>Cap.</hi> 12.</p>
+            <p>There is likewiſe a meaſure ordeined by law, named a yard, being deriued from the graines of Barly, as thrée barly cornes in length ſhall make an inch.<note place="margin">Compoſitio vlnarum &amp; perticarum. An. 31. Ed. 1.</note> Twelue of the ſame inches ſhall make the foote, thrée foote ſhall make the yard, and ſixtéene foote and a halfe, ſhall make the polle or pearch to meaſure land or wood withall. In many countries this polle or pearch doth va<g ref="char:EOLhyphen"/>ry, as in ſome places it is eightéene foote, and in ſome other pla<g ref="char:EOLhyphen"/>ces xxi. foote, as by auncient cuſtome is allowed. Of the which
+<pb facs="tcp:8650:12" rendition="simple:additions"/>
+polles or pearches, fortie in length and foure of them in bredth,<note place="margin">The Acre of land.</note> make the Acre of land or wood, vpon which meaſure, <hi>Pliny li.</hi> 2. <hi>Cap.</hi> 23 deriueth <hi>Stadium</hi> to be a furlong, which conteineth 125. paſes, euery paſe to conteine fiue foote: the foote to con<g ref="char:EOLhyphen"/>teine foure palmes, and euery palme conteineth foure fingers bredth. There are alſo thrée kinds of <hi>Stadia,</hi> the firſt is,<note place="margin">Stadin or fur<g ref="char:EOLhyphen"/>long.</note> 
+               <hi>Sta<g ref="char:EOLhyphen"/>dium Italicum,</hi> conteining 625. féet, which is 125. paſes: y<hi rend="sup">e</hi> ſecond is <hi>Stadium Olimpicum,</hi> co<g ref="char:cmbAbbrStroke">̄</g>teining 600. féet, which is, 120. paſes. The third, is <hi>Stadium Pithicum,</hi> co<g ref="char:cmbAbbrStroke">̄</g>teining 1000. féete, which is 200. paſes, of theſe <hi>Stadia,</hi> eight in length, doo make the Italian mile, containing 1000. paſes, and euery paſe to be fiue foote in length. And of theſe paſes <hi>Iunius</hi> writeth,<note place="margin">The difference daies.</note> that there is <hi>Paſſus duplex, &amp; paſſus minor vel ſimplex, paſ<g ref="char:EOLhyphen"/>ſus duplex,</hi> is fiue foote as aforeſaid, but <hi>paſſus minor vel ſim<g ref="char:EOLhyphen"/>plex,</hi> is but two foote and a halfe, which is vſually the diſtance from the toes of the fore foote, vnto the héele of the hinder foote in going. And alſo he ſaith, that <hi>paſſus maior ſiue Geometri<g ref="char:EOLhyphen"/>cus</hi> is a paſe, or fathame of fiue féete, there is alſo <hi>paſſus Gre<g ref="char:EOLhyphen"/>cus, &amp; paſſus Romanus, paſſus Grecus,</hi> being more then <hi>paſ-Rſusomanus</hi> by a foote, and the fourth part of a foote in the</p>
+            <div type="section">
+               <head>The Aſſiſe and order for Brewers, aſwell of Ale as of Beere.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>T was alſo ordained in <hi>Anno.</hi> 23. <hi>H.</hi> 8. that the Ale Firking ſhall holde and containe viij gallons and vpwardes, the Kilderking xvi. gallons and vp<g ref="char:EOLhyphen"/>wardes,<note place="margin">Brewers caſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                  </note> and the Ale Barrell, xxxij. gallons and vpwards. The beere Fir<g ref="char:EOLhyphen"/>king ſhall holde and containe ix. gal<g ref="char:EOLhyphen"/>lons and vpwards, the beere Kilder<g ref="char:EOLhyphen"/>king xviij gallons and vpwardes, and the beere Barrell xxxvi. gallons and vpwardes, according to the Engliſh gallon, be<g ref="char:EOLhyphen"/>fore mentioned.</p>
+               <p>Theſe being the true contents of Beere and Ale veſſels, the
+<pb facs="tcp:8650:13"/>
+Brewers that are to ſell by them,<note place="margin">Vnholſome drinkes.</note> are likewiſe thus reſtrained by lawes. <hi>Viz.</hi> that they brewe not their Ale nor Beere of any muſty malte or eaton with wiuels, nor put any Ale or Beere to ſale, in any muſty or corrupt veſſels, or in any veſſelles of a leſſer content then before mentioned: neither muſt they make any newe veſſels within their owne houſes,<note place="margin">New veſſels not to be mad by brewers.</note> to vtter their Ale and Bere in, ſauing that they may kéepe Coopers with<g ref="char:EOLhyphen"/>in their houſes, onely to Hoope, Cobble, and amend their veſ<g ref="char:EOLhyphen"/>ſels and not otherwiſe.</p>
+               <p>And further more, that euerie béere brewer and ale brewer with in this Realme of England, ſhall not take ouer and a<g ref="char:EOLhyphen"/>boue for euerie ſuch barrell, Kilderking or Firkin, of ale or beare, but after the prices and rates as ſhalbe thought conue<g ref="char:EOLhyphen"/>nient &amp; ſufficient by the diſtreſſion of the Iuſtices of the peace, within euerie ſhéere where ſuch ale brewer or héere brewer ſhall dwell,<note place="margin">Priſes for ale and beere.</note> without any Citie, Borough, or Towne corpor<g ref="char:EOLhyphen"/>ate, where no hed officers, as Maiors, Bailiſes, Shéeriffes, or other hed officers, haue none authoritie nor rule: &amp; in euery Cittie, Borrought, or Towne, where there be Maior, ſhe<g ref="char:EOLhyphen"/>riefes or other hed officers, the ſame rates and prices to be ra<g ref="char:EOLhyphen"/>ted and ceaſſed by them and euery of them by their diſcreſſions<g ref="char:punc">▪</g> And that the fame ale brewers and béere brewers at any time héereafter ſhall not ſell there béere nor ale, at any higher rates and prices then ſhalbe vnto them aſſigned after the forme a<g ref="char:EOLhyphen"/>boue rehearſed, vpon paine to loſe and forfait for euerie barell ſo put to ſale contrarie to this ſtatute vi. s. for euerie halfe bar<g ref="char:EOLhyphen"/>ell or kilderking iii. s. iiii. d. for euerie Firking ii. s. And for e<g ref="char:EOLhyphen"/>uerie veſſell containing gretter number of Gallons x. s. and for euerie veſſell containing leſſer number of Gallons xii. d. the one halfe of which penalties and forfeitures ſhalbe vnto the Quéenes Maieſtie, her heares and ſucceſſors: the other halfe vnto him that will ſue for the ſame, by action debt, bill, plaint, or information in any of her Maieſties courte of record, wher<g ref="char:EOLhyphen"/>in the defendant ſhall not wage his lawe.</p>
+               <p>And for aſmuch as the miſterie of brewing, as a thing very néedfull and neceſſary for the common wealth, hath beene al<g ref="char:EOLhyphen"/>waies
+<pb facs="tcp:8650:13"/>
+by auncient cuſtome &amp; good orders, practized and main<g ref="char:EOLhyphen"/>tained with in Cities, Corporat, Borroughs, and market Townes of this Realme, by ſuch expert and ſkilfull perſons,<note place="margin">Brewers to be apprentizes or ſkilfull men in the miſtery.</note> as either were traded and brought vp therin, by the ſpace of ſeauen yeares, and as prentize therein accepted: accordingly as in all other Trades and Occupations, or els well knowne to be ſuch men of ſkill and honeſtie, in that miſtery, as could and would alwaies yéeld vnto her Maieſties ſubiects in the com<g ref="char:EOLhyphen"/>mon wealth, ſuch good and holſome Ale and Beere, as both in the qualitie and for the quantitie thereof, did euer agrée with the good lawes of the Realme. And eſpecially to the comforte of the poorer ſorte of ſubiectes: who moſt néede it: vntill of late yeares, ſundry Perſons enhabiting within the foreſaide liber<g ref="char:EOLhyphen"/>ties, rather ſéeking their owne priuate gaine, then the publique profite of their countrie: haue not onely erected and ſet vp ſmall brewhouſes at their pleaſures: but alſo brew and vtter uch Ale and Beere, for want of ſkil in that miſtery, as both in the prices and holſomnes thereof: doth vtterly diſagrée with the goodlawes and orders of this Realm: thereby alſo, ouer throwing the greater and more auncient brewhouſes: and the eſtate of the ſaide miſtery of brewing. It is therefore very neceſſarie, that the Maior, Baylifes, or other hedde Officers of euery Citie, corporate, borough, or market townes within this realme, where ſuch great and auntient brewhouſes are, doe take ſuch good order by vertue of their Charters graunted to them, either by her Highnes, or her noble progeniters: as that within theſe liberties, y<hi rend="sup">e</hi> aforeſaid auntient brewers and brewhouſes, may bee recontinued and maintained, and thoſe new erected houſes, with their vnſkillfull owners, ſuppreſſed and put downe, which as it hath beene, ſo doubtleſſe would it be the beſt and ſureſt meanes of maintayning that miſterie, and vnto the common wealths moſt profite.</p>
+            </div>
+            <div type="section">
+               <head>The Aſsiſe and order for Inholders and Victulers.</head>
+               <p>
+                  <pb facs="tcp:8650:14"/>
+                  <seg rend="decorInit">A</seg>ND for that Ale and Béere are not in themſelues perfect licures, but beinge filled into a ſmall meaſure, the yeſte or froth therefore will aſſend,<note place="margin">Inholders and victulers.</note> by working very ſpéedely, requiring a time in ſetling thereof againe, there is alto vſed and to be allowed within this realme, ſundrie meaſures of leſſer co<g ref="char:cmbAbbrStroke">̄</g>tents for Brewers Inholders and Victulers,<note place="margin">Thurdendels.</note> ſelling their Ale &amp; Beere by retail, vnto the ſubiects: The which are named or called, hooped quart and pinte, meaſures, thurdendells, and halfe thurdendells, be<g ref="char:EOLhyphen"/>ing a ſmall quantitie ſome what bigger then the foreſaide ſtan<g ref="char:EOLhyphen"/>derd: in reſpecte of the working and aſſending of the yeſte and froth as aforeſaide: by the which quartes and pintes, the In<g ref="char:EOLhyphen"/>holders ſhall retaile, their Ale and Béere, being after the rate of foure pence the gallon: And by the ſame thurdendel, and halfe thurdendel, the Victulers ſhall retaile their drinke, being after the rate of thrée pence the gallon, the which ſaid ſeuerall mea<g ref="char:EOLhyphen"/>ſures are lawfull and ought to be vſed in manner aforeſaide, at this daye.</p>
+               <p>And furthermore, Inholders, Cookes, &amp; Victulers are, not onely by the lawes and auntient good orders of this realme,<note place="margin">Vnholſome victuals<g ref="char:punc">▪</g>
+                  </note> for<g ref="char:EOLhyphen"/>bidden to bake, ſéethe, or roſte, any fiſh or fleſh twice, or ſell and vtter vnto the Subiectes any manner of corruptible victuals, which may be to the hurte and the infection of mans bodie.<note place="margin">Anno. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1. H. 3.</note> But alſo that they ſhall not vtter and ſell their Ale and Béere, within or without their houſes by retaile or otherwiſe, vnto any the Quéenes Maieſties ſubiectes, with any falſe or vnſea<g ref="char:EOLhyphen"/>led meaſures,<note place="margin">Falſe meaſures</note> leſſer then the ſtanderd before metioned, nor vt<g ref="char:EOLhyphen"/>ter and ſell their prouender within their Oſtries, with any falſe or vnſealed meaſures, which ſhalbe repugnant vnto the fore<g ref="char:EOLhyphen"/>ſaide ſtandard of her highnes Exchequier. <hi>Anno.</hi> 11. <hi>&amp;.</hi> 12. <hi>H.</hi> 7. <hi>cap.</hi> 4.</p>
+               <p>Item if any Butcher, Fiſhmunger, Inholder, Victuler, Baker, Poulter or any other whatſoeuer: which ſhall ſell any victuals vnto the ſubiects at any exceſſiue price or priſes
+<pb facs="tcp:8650:14"/>
+otherwiſe then the plentie and ſkarcitie of the time, and the diſtance of carriage of the ſame conſidered, ſhall accorde with equite and good conſcence. Then Maiors Baylifes and other cheef officers of Citties, Boroughes, and Townes corporate ſhall haue full power and authoritie: to enquire and examine all ſuch offences and defaults therein done and committed, and to inflict puniſhment vpon the offenders, by ceaſing of the dou<g ref="char:EOLhyphen"/>ble value, of that which he or they ſhall ſo vtter and ſell, vnto the partie damnified. And if the ſaide cheefe officers ſhall o<g ref="char:EOLhyphen"/>mit to doe their duties heerin: then the Iuſtices of the peace ſhall haue full power and authoritie to inflict puniſhment vp<g ref="char:EOLhyphen"/>on ſuch negligent and careles officers. <hi>Anno.</hi> 23. <hi>Ed. tercij. cap.</hi> 6.</p>
+               <p>Item it is enacted in <hi>Anno.</hi> 6. <hi>R.</hi> 2. <hi>cap.</hi> 9. That no vic<g ref="char:EOLhyphen"/>tuler, or victulers, within any Cittie, or other Towne, or Townes within the Realme of England, ſhall vſe or occupie the office of a iudge, during the time that he ſhalbe officer there, (except it be for want of other ſufficient men which ſhould excerciſe the ſame office) And then whileſt he is in that office of a iudge he nor none of his ſhall vtter and ſell any vic<g ref="char:EOLhyphen"/>tuals vnto the ſubiects vpon paine of forfaiture of the ſame victuals.</p>
+            </div>
+            <div type="section">
+               <head>The aſsiſe for Inholders, or any others retailing their Hey by the Bottle, Truſſe, or hundreth, as followeth.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Irſt the lode, which men call the cart or waine<g ref="char:EOLhyphen"/>teight, is reckoned to be twenty hundred weight of <hi>Auoirdupois</hi> weight, accounting a hundreth &amp; twelue pounds vnto euery hundreth,<note place="margin">The aſſiſe of Heye.</note> but for as much as her maieſties ſubiects enhabiting néere vnto y<hi rend="sup">e</hi> Citie of London, cannot very eaſily, or well loade their cartes or waines with hey, of ſuch great weight, and ſo carry the ſame vnto the citie. They do reckon and account eightéene hundreth weight of <hi>Auoirdupois</hi> weight, to be the common loade of hey, the which they make and ſiſe as followeth: that
+<pb facs="tcp:8650:15"/>
+is to ſale, that xxxvi. truſſes of hey ſhall make the loade, euerie truſſe of hey, to wey the full weight of fiftie ſixe pounds of <hi>A<g ref="char:EOLhyphen"/>uoirdupois,</hi> and after that rate, one pound of hey ſold for a ob. maketh foure poundes foure ſhillings the loade in mony: two pounds of hey for a ob. make xlii. s. the loade: thrée poundes of hey for a ob. make xxxi. s. vid. the load: &amp; foure pounds of hey for a ob. make xxi. s. the loade the which aſſiſe or weight in hey, the Inholders and others retailing the ſame, ought to obſerue and kéepe.</p>
+               <p>And whereas any Inholders or others do or ſhall: take or receiue any manner of horſe or horſes vnto liuerie at Heay<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Litter by day and night. Then if the bottle of Heye ſhall waye thrée pounds for a halfe peny, which is vj. pound for a i. <abbr>d</abbr>. and ſo xviij. pounds of Heye for thrée pence, the which xviij pound of hey with reaſonable prouender at euery wateringe will ſuffice one horſe day and night and according to that ra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the Inholder or any other parſon ſhall make xxxi. s. vi. <abbr>d</abbr>. of his lode of hey: being of the ful weight as before is mentioned then allowe him one peny day and night for hie litter, which<g ref="char:EOLhyphen"/>in the hole amounteth vnto iiij. <abbr>d</abbr> day and night for hey and litter, and ſo ſhall the Inholders or any others haue ſufficient gaine in his ſtable<g ref="char:cmbAbbrStroke">̄</g>, if the ſame horſe ſhall ſpend but three halfe pence in prouender at euery watering. And ſo ſhal all manner of officers, appurtionate the Inholders: and all others which vſe to take horſes by liuerie day and night, as the prices of the lode of hey ſhall yeerly encreaſe and deminiſhe.</p>
+            </div>
+            <div type="section">
+               <head>The Aſsiſe for Vinteners.</head>
+               <p>
+                  <seg rend="decorInit">V</seg>Inteners muſt ſell good and wholeſome wines for the ſuſtenance of man, they muſt not mix or alter the verdure and proper nature of their wines,<note place="margin">Vinteners.</note> nor compound them with any thing, o<g ref="char:EOLhyphen"/>therwiſe then perfect wine of it ſelf. They muſt vtter and ſell their wines by retaile, with ſuch lawfull and ſea<g ref="char:EOLhyphen"/>led meaſures, as are agréeable vnto the Standard of her Ma<g ref="char:EOLhyphen"/>ieſties
+<pb facs="tcp:8650:15"/>
+Exchequier, by the halfe pinte, pine, quart, pottle and gallon, according to the approued Standard before mencioned.</p>
+            </div>
+            <div type="section">
+               <head>The Aſsiſe for Butchers.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>T hath béen alwaies a thing moſt carefully loo<g ref="char:EOLhyphen"/>ked vnto, and prouided for, by good and auncient orders and lawes of this Realme,<note place="margin">Anno. 51. H. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. &amp;. An. 31. Ep. 1 cop. 7.</note> and alſo by aduiſe of the learned and ſkilful Phiſitions of the ſame: that no Butchers ſhould kill and ſel vn<g ref="char:EOLhyphen"/>to the ſubiects,<note place="margin">Holſome meates.</note> any fleſh of any cattel which were grieued or in<g ref="char:EOLhyphen"/>fected with a diſeaſe called the Morren: nor kill and ſell anie Bull or Bulles vnbaited, any Cowe or kine great with Calfe, or neare caluing, any Ewe or Ewes with Lambe, or taking the Ramme, or any Sow great with Pig or taking the Bore, vpon paine of amercement, at the diſcretion of the Officers ha<g ref="char:EOLhyphen"/>uing authoritie to enquire thereof: neither that they ſhould blow their fleſh, which they ſell to the ſubiects, or geld the kid<g ref="char:EOLhyphen"/>nies of their Muttons, Veales, or Lambes, taking away the fatte thereof, nor deceitfully raiſe the ſame kidnies, with any ſtopping or vnder putting them, to deceiue the ignorant buyers thereof: vpon like paine. Nor vttered and ſell any meſeled Porke, vpon paine of amercement,<note place="margin">Deceiptes of Butchers.</note> and to ſuffer the iudgement of the Pillory, with his corrupt fleſh to be burned openly be<g ref="char:EOLhyphen"/>fore his face, in the market place. Likewiſe that they ſhall not ſell their fleſh vnto the Quéenes ſubiectes, with any beame or ballance enclining more vnto the one ende, then vnto the other, thereby to deceiue the ſubiects, nor ſell their fleſh by or with any falſe weight, leſſer then the Quéens Maieſties Stan<g ref="char:EOLhyphen"/>dard, before mencioned, and that after the rate of xvi. ounces <hi>Auoirdupois</hi> to the pound, and eight of them pounds to make the ſtone, or otherwiſe as the vſage or cuſtome of the country requireth for the number of the pounds vnto the ſtone.</p>
+            </div>
+            <div type="section">
+               <head>The Aſsiſe of Fuell to bee obſerued in the Citie of Lon<g ref="char:EOLhyphen"/>don, Weſtminſter, and the ſubberbes of the ſame.</head>
+               <p>
+                  <pb facs="tcp:8650:16"/>
+                  <seg rend="decorInit">F</seg>Irſt euery ſacke of charre Coales, muſt conteine and holde, foure buſhels of good and cleane coales.</p>
+               <p>
+                  <note place="margin">The aſſiſe of Euell.</note>Item euery Taleſhide, muſt conteine in length foure foote beſides the Carfe, euery Taleſhide named one, to conteine in greatnes within a foote of the middeſt, xvi. inches about: and euery Taleſhade named of two, to conteine in greatnes within a foote of the middeſt, xxiii. inches about: and euery Talſhide named of thrée, to conteine in greatnes within a foote of the middeſt, xviii. in<g ref="char:EOLhyphen"/>ches about: and euery Talſhide named of ſoure, to conteine in greatnes within a foote of the middeſt, xxxiii. inches about: and euery Talſhide named of fiue, to conteine in greatnes within a foote of the middeſt, xxxviii inches about.</p>
+               <p>Item, euery billet to contein in length, thrée foote and ſoure inches, and euery billet named a ſingle, to conteine vii. inches and a halfe about.</p>
+               <p>Item, euery billet named to be a caſt, to conteine ten inches about: and euery billet of two caſt, to conteine xiiii. inches a<g ref="char:EOLhyphen"/>about.</p>
+               <p>Item, euery faggot bende, to conteine in length thrée foote, and the band of euery ſuch faggot, to be xxiiii. inches about, be<g ref="char:EOLhyphen"/>ſides the knot.</p>
+               <p>Item all billets of two caſt that ſhall be made, to be put to ſale, ſhall be of the ſiſe herein compriſed, and ſhall be marked within ſix inches of the middeſt thereof. And euery billet of one caſt made to be put to ſale, ſhall be marked within foure inches of the ende thereof, vpon paine that euery marker, and euery ſeller, that ſhall make any ſuch fuell or coales, and put the ſame to ſale, to forfeit for euery ſhide, of talwood, billet, faggot, or acke of coales, lacking the aſſiſe aforeſaid, iii. s. iiii d. And that if any cutter or marker, or other, that ſhall forfeit any ſummes herein conteined, ſhall not be able to yéeld or pay ſuch forfeiture for ſummes as aforeſaid, that then euery ſuch perſon conuicted by witneſſes, or otherwiſe, to be ſet on the Pillory in the next
+<pb facs="tcp:8650:16"/>
+Market Towne, to the place wherein he ſhall ſo offend, by a Iuſtice of the Peace, or any other her Maieſties Officers, at the houre of eleuen of the clocke, vpon the market day, with a billet, faggot, or ſacke of coales, bound to ſome part of his body, and ſo to be diſcharged of the foreſaid forfeiture. <hi>An.</hi> 7. <hi>Ed.</hi> 6. <hi>Cap.</hi> 7.</p>
+            </div>
+            <div type="section">
+               <head>The Aſsiſe for Lath.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>Tem that euerie Lath ſhall bee and containe in length fiue foot, and in breadth two inches, and in thickenes halfe an inche of Aſſiſe, vpon paine to forfaite for eueri hundreth which ſhalbe put to ſale of leſſer Siſe. ij. <abbr>d</abbr>.</p>
+            </div>
+            <div type="section">
+               <head>The Aſsiſe of Timber.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>Tem that all manner of Timber be well he won and perfectly ſquared, and alſo kéep true meaſure. <hi>Viz.</hi> fiftie foot of Timber for the lode, vpon paine to forfaite for euerie lode of Timber which ſhalbe ſold to the contrarie. xii. d.</p>
+            </div>
+            <div type="section">
+               <head>The Aſsiſe of Tile.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>Tem euerie Parſon or Parſons, which ſhall vſe the occupation of ma<g ref="char:EOLhyphen"/>king of thack tile roof tile, creſt tile, or gutter tile, ſhall make it good and ſea<g ref="char:EOLhyphen"/>ſonable, able and ſufficient, and well whited and annealed, and the ground whereof any ſuch tile ſhalbe made, ſhal bee digged and caſt vp before the firſt day of Nouember next beefore they ſhalbe made, and the ſaide earth ſhalbe ſtirred and tur<g ref="char:EOLhyphen"/>ned before the firſt day of Ianuarie then next following, and
+<pb facs="tcp:8650:17" rendition="simple:additions"/>
+the ſame earth before it be put to making the tile, ſhal be true<g ref="char:EOLhyphen"/>ly wrought and tried from ſtones, and alſo the vaines called maline or marle and chalke (lying commonly in the ground néer the land conueinent to make tile) after the diggin of the ſaide ground whereof any ſuch tile ſhall be made: ſhall be well and truely ſeuered and caſt from the earth whereof any ſuch tile ſhalbe made. And that euerie ſuch plaine tile ſhall containe in lenght x. Inches and a halfe, and in breadth vi. Inches and a quarter, and in thicknes halfe an Inch and halfe a quarter at the leaſt, and euerie ſuch roofe tile or creaſt tile, ſhall con<g ref="char:EOLhyphen"/>taine in length xiii. Inches, and in thicknes halfe an Inch and half a quarter at the leaſt with conuenient déepnes according, and euerie gutter tile and corner tile ſhall containe in lenght, x. Inches and a halfe with conuenient thicknes, breadth and déepth according and if any Parſon ſet to ſale any ſuch tile made againſt the foreſaid ordinaunce, then the ſeller thereof ſhall forfaite to the bier, the double value of the ſame tile, and beſides ſhall make fine to the Quéene at her pleaſure, and eue<g ref="char:EOLhyphen"/>ry Parſon that findeth him ſelfe gréeued héerin and will ſue ſhal haue an action of debt againſt the offenders, and the plain<g ref="char:EOLhyphen"/>tife (if he recouer héerin) ſhall recouer his coſts, wherein no wager of lawe ſhalbe allowed vnto the defendaht. <hi>Anno.</hi> 17. <hi>Ed.</hi> 4. <hi>cap.</hi> 4.</p>
+               <p>Thus much I haue thought good, ſimply to make apparant vnto the eyes of the ignorant, for the true order and aſſiſe of weight and meaſure, with the aſſiſe of bread and other neceſſa<g ref="char:EOLhyphen"/>ries, concerning the ſame, to be obſerued by all ſubiects, as a thing very neceſſary and néedfull in the common wealth. The which both Gods booke, the good lawes and aunci<g ref="char:EOLhyphen"/>ent orders of the Realm, do allow &amp; main<g ref="char:EOLhyphen"/>taine, wiſhing euery good ſubiect to imbrace the ſame accor<g ref="char:EOLhyphen"/>dingly.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:8650:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
